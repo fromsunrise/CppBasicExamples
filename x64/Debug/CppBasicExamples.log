@@ -1,0 +1,3 @@
+﻿  CppBasicExamples.cpp
+D:\CppBasicExamples.cpp(25,15): warning C4101: 's': unreferenced local variable
+  CppBasicExamples.vcxproj -> D:\GitMe\CppBasicExamples\x64\Debug\CppBasicExamples.exe
